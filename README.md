@@ -22,3 +22,5 @@
   <a href="https://www.linkedin.com/in/guilherme-werneck-96a276260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-de-Melo-Werneck)](https://github.com/Guilherme-de-Melo-Werneck/github-readme-stats)
