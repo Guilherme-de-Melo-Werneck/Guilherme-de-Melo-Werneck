@@ -23,4 +23,6 @@
   
 </div>
 
+![snake gif](https://github.com/Guilherme-de-Melo-Werneck/Guilherme-de-Melo-Werneck/blob/output/github-contribution-grid-snake.svg)
+
 
