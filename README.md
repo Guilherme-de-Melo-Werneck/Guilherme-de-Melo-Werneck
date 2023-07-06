@@ -23,4 +23,4 @@
   
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-de-Melo-Werneck)](https://github.com/Guilherme-de-Melo-Werneck/github-readme-stats)
+![snake gif](https://github.com/Guilherme-de-Melo-Werneck/Guilherme-de-Melo-Werneck/blob/output/github-contribution-grid-snake.svg)
