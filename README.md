@@ -24,7 +24,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-de-Melo-Werneck&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-de-Melo-Werneck&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-de-Melo-Werneck&layout=compact)
 ![snake gif](https://github.com/Guilherme-de-Melo-Werneck/Guilherme-de-Melo-Werneck/blob/output/github-contribution-grid-snake.svg)
 
 
