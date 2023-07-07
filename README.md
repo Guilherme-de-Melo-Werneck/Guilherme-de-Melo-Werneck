@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Werneck;I'm+21+years+old;I'm+from+Brazil;+Graduating+Information+System;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Werneck;I'm+21+years+old;I'm+from+Brazil;+Graduating+Information+System;Be+Welcome!)](https://git.io/typing-svg)
 
 ![snake gif](https://github.com/Guilherme-de-Melo-Werneck/Guilherme-de-Melo-Werneck/blob/output/github-contribution-grid-snake.svg)
 
