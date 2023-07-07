@@ -25,7 +25,7 @@
 </div>
 
 <div>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Guilherme-de-Melo-Werneck&show_icons=transparent">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Guilherme-de-Melo-Werneck&show_icons=true">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-de-Melo-Werneck&layout=compact">
 </div>
 
