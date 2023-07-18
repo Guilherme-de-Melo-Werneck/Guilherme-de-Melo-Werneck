@@ -8,7 +8,7 @@
 - :gem: Acesse meu portfólio clicancando <a href="https://portfoli-hcrb1vpx3-guilherme-de-melo-werneck.vercel.app" target="_blank">AQUI<a/>  
 - 📫 Contate-me no e-mail : gmelo435676@gmail.com
 
-![snake gif](https://github.com/Guilherme-de-Melo-Werneck/Guilherme-de-Melo-Werneck/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Guilherme-de-Melo-Werneck/Guilherme-de-Melo-Werneck/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
