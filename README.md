@@ -8,7 +8,11 @@
 - :notebook: Estudando HTML, CSS, PYTHON
 - :gem: Acesse meu portfólio clicancando <a href="https://portfoli-hcrb1vpx3-guilherme-de-melo-werneck.vercel.app" target="_blank">AQUI<a/>  
 - 📫 Contate-me no e-mail : gmelo435676@gmail.com
-
+  
+<br>
+<br>
+<br>
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-De-Melo-Werneck&bg_color=0d1117&color=16537e&line=16537e&point=073763&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
