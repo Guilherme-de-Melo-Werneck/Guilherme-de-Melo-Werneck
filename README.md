@@ -6,7 +6,7 @@
 - :birthday: 21y
 - 🧑🏽‍💻 Cursando Sistemas de Informação
 - :notebook: Estudando HTML, CSS, PYTHON
-- :gem: Acesse meu portfólio clicancando <a href="https://portfoli-hcrb1vpx3-guilherme-de-melo-werneck.vercel.app" target="_blank">AQUI<a/>  
+- :gem: Acesse meu portfólio clicancando <a href="https://portifolio-web-nu.vercel.app" target="_blank">AQUI<a/>  
 - 📫 Contate-me no e-mail : gmelo435676@gmail.com
   
 <br>
