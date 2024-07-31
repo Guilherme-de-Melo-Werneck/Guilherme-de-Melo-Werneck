@@ -3,7 +3,7 @@
 ## Olá! Meu nome é Guilherme Werneck.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- :birthday: 21y
+- :birthday: 22y
 - 🧑🏽‍💻 Cursando Sistemas de Informação
 - :notebook: Estudando HTML, CSS, PYTHON
 - :gem: Acesse meu portfólio clicancando <a href="https://portifolio-web-nu.vercel.app" target="_blank">AQUI<a/>  
