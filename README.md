@@ -4,8 +4,8 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - :birthday: 22y
-- 🧑🏽‍💻 Cursando Sistemas de Informação
-- :notebook: Estudando HTML, CSS, PYTHON
+- 🧑🏽‍💻 Graduado Sistemas de Informação
+- :notebook: Estudando HTML, CSS, PYTHON, JAVASCRIP
 - :gem: Acesse meu portfólio clicancando <a href="https://portifolio-web-nu.vercel.app" target="_blank">AQUI<a/>  
 - 📫 Contate-me no e-mail : gmelo435676@gmail.com
   
