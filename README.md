@@ -43,9 +43,10 @@
   <a target="_blank" href="https://www.instagram.com/meelogui/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
+  &nbsp;&nbsp;
+  <a target="_blank" href="https://portfolio-five-swart-qulvfrwubk.vercel.app" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
 </p>
 
 ![alt text](./imgs/bottom.png)
-
-
-
