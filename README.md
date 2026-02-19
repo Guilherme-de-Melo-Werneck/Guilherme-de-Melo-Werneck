@@ -8,23 +8,23 @@
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.canva.com/" target="_blank">
+  <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="42" height="42" />
   </a>
 </p>
@@ -32,19 +32,19 @@
 <h2 align="center">🔗 Where to find me</h2>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/guilherme-werneck-96a276260/" style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/guilherme-werneck-96a276260/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:gmelo435676@gmail.com" style="display: inline-block;">
+  <a href="mailto:gmelo435676@gmail.com" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   &nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/meelogui/" style="display: inline-block;">
+  <a href="https://www.instagram.com/meelogui/" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
   &nbsp;&nbsp;
-  <a target="_blank" href="https://portfolio-five-swart-qulvfrwubk.vercel.app" style="display: inline-block;">
+  <a href="https://portfolio-five-swart-qulvfrwubk.vercel.app" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
 </p>
